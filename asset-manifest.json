@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rating-system/static/css/main.07910b7e.css",
+    "main.js": "/rating-system/static/js/main.22f5ca39.js",
+    "static/media/burger.jpeg": "/rating-system/static/media/burger.b6e374677eb7b4bc20e7.jpeg",
+    "static/media/pizza.jpeg": "/rating-system/static/media/pizza.262cd85a7e1fd2a9ec0a.jpeg",
+    "index.html": "/rating-system/index.html",
+    "main.07910b7e.css.map": "/rating-system/static/css/main.07910b7e.css.map",
+    "main.22f5ca39.js.map": "/rating-system/static/js/main.22f5ca39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07910b7e.css",
+    "static/js/main.22f5ca39.js"
+  ]
+}
