@@ -4,7 +4,7 @@ This is a simple React application that allows users to rate two foods — Pizza
 
 ## Live Demo
 
-You can check out the live demo of the **Comfort Craft** website here: 
+You can check out the live demo of the **Rating system** website here: 
 [Food Rating App Demo](https://rahaf-ayn-kraie.github.io/rating-system/)
 
 ## ✅ Features
